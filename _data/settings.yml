@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.jpg
 
 header_settings:
-  logo_image: /images/favicon.jpg
+  logo_image: 
   logo_width: 150
   overlay_opacity: 0.7
 
