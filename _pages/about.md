@@ -5,13 +5,14 @@ description: Learn more about me and my motivations for this blog :)
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
+
 
 ## Who is Niklas?
 Hello and welcome to my blog.
-<br>
+<br><br>
 I am Niklas, an Solution Architect with expertise in modern workplace engineering, I have helped numerous clients achieve their business objectives by creating and implementing customized solutions for Modern Work environments based on Microsoft 365 and Azure services. With several years of experience I have honed my skills in Microsoft 365, Microsoft Azure, Microsoft Intune, and Microsoft Defender, while constantly expanding my knowledge base.
-<br>
+<br><br>
 Currently I am working for Frankfurt International Airport, where I am responsible for the Solution Architect of the workplace infrastructure.
 
 ## 💡Skills
