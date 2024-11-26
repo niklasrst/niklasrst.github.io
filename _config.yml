@@ -1,7 +1,7 @@
 site: Journal Jekyll Theme
 
-url: https://niklasrst.github.io/
-baseurl: https://niklasrst.github.io/
+url: 
+baseurl: 
 
 collections:
   pages:
