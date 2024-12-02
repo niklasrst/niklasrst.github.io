@@ -1,5 +1,5 @@
 ---
-title: Who is Niklas?
+title: About the author
 subtitle: Learn more about me and my motivations for this blog :)
 description: Learn more about me and my motivations for this blog :)
 featured_image: /images/demo/demo-portrait.jpg
