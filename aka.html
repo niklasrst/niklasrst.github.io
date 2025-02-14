@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+       window.onload = function() {
+           var path = window.location.pathname;
+           var redirects = {
+               "/autopilotPreprovisioning": "https://niklasrast.io/blog/post-0014",
+               "/enrollWindows11": "https://niklasrast.io/blog/post-0013",
+               "/enrollMacos": "https://niklasrast.io/blog/post-0012"
+           };
+           if (redirects[path]) {
+               window.location.href = redirects[path];
+           } else {
+               document.body.innerHTML = "<p>Page not found. Please check the URL.</p>";
+           }
+       };
+</script>
+</head>
+<body>
+<p>If you are not redirected automatically, please check the URL.</p>
+</body>
+</html>
