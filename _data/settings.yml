@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Blog'
       url: '/'
     - title: 'RSS Feed'
-      url: '/feed.xml'
+      url: 'https://niklasrast.io/feed.xml'
     #- title: 'Projects'
     #  url: '/projects/'
     - title: 'About'
