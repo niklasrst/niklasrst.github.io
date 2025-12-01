@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Niklas Blog</title>
+    <link>https://niklasrast.io/</link>
+    <description>Niklas Blog about Device Management</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 1 Dec 2025 10:00:00 +0000</lastBuildDate>
+    <item>
+        <title>Overview of Windows Autopilot</title>
+        <link>https://niklasrast.io/blog/post-0001</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0001</guid>
+    </item>
+    <item>
+        <title>Windows 365 – An overview and the setup steps.</title>
+        <link>https://niklasrast.io/blog/post-0002</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0002</guid>
+    </item>
+    <item>
+        <title>Windows Autopatch – An overview from my pov</title>
+        <link>https://niklasrast.io/blog/post-0003</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0003</guid>
+    </item>
+    <item>
+        <title>Windows Autopilot Troubleshooting</title>
+        <link>https://niklasrast.io/blog/post-0004</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0004</guid>
+    </item>
+    <item>
+        <title>Reading and importing Windows Autopilot hardware hashes</title>
+        <link>https://niklasrast.io/blog/post-0005</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0005</guid>
+    </item>
+    <item>
+        <title>Changing the Windows system language via Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0006</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0006</guid>
+    </item>
+    <item>
+        <title>Intune Proactive Remediation Scripts</title>
+        <link>https://niklasrast.io/blog/post-0007</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0007</guid>
+    </item>
+    <item>
+        <title>Self Service Password Reset (SSPR) on Windows Login Screen using Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0008</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0008</guid>
+    </item>
+    <item>
+        <title>Deploying Office Templates over a SharePoint Library with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0009</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0009</guid>
+    </item>
+    <item>
+        <title>Microsoft Intune Enrollment Guide for Android Enterprise</title>
+        <link>https://niklasrast.io/blog/post-0010</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0010</guid>
+    </item>
+    <item>
+        <title>Microsoft Intune Enrollment Guide for iOS</title>
+        <link>https://niklasrast.io/blog/post-0011</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0011</guid>
+    </item>
+    <item>
+        <title>Microsoft Intune Enrollment Guide for macOS</title>
+        <link>https://niklasrast.io/blog/post-0012</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0012</guid>
+    </item>
+    <item>
+        <title>Microsoft Intune Enrollment Guide for Windows 11</title>
+        <link>https://niklasrast.io/blog/post-0013</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0013</guid>
+    </item>
+    <item>
+        <title>Pre-Provision Windows devices with Windows Autopilot</title>
+        <link>https://niklasrast.io/blog/post-0014</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0014</guid>
+    </item>
+    <item>
+        <title>PowerShell Profile: customize your terminal and add functions</title>
+        <link>https://niklasrast.io/blog/post-0015</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0015</guid>
+    </item>
+    <item>
+        <title>Azure AD Join compared to Azure AD Hybrid Join</title>
+        <link>https://niklasrast.io/blog/post-0016</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0016</guid>
+    </item>
+    <item>
+        <title>Intune Troubleshooting Experience - A Powerful Tool for Admins</title>
+        <link>https://niklasrast.io/blog/post-0017</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0017</guid>
+    </item>
+    <item>
+        <title>Code Signing for Intune Packages with a PowerShell Wrapper</title>
+        <link>https://niklasrast.io/blog/post-0018</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0018</guid>
+    </item>
+    <item>
+        <title>Using a naming convention for your Azure resources</title>
+        <link>https://niklasrast.io/blog/post-0019</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0019</guid>
+    </item>
+    <item>
+        <title>Troubleshooting Intune Software Packages Before Deployment</title>
+        <link>https://niklasrast.io/blog/post-0020</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0020</guid>
+    </item>
+    <item>
+        <title>Enable your users for Self-Service password reset in Azure AD to reduce the amount of tickets with password reset requests.</title>
+        <link>https://niklasrast.io/blog/post-0021</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0021</guid>
+    </item>
+    <item>
+        <title>How to setup and use Windows 365 Cloud Boot?</title>
+        <link>https://niklasrast.io/blog/post-0022</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0022</guid>
+    </item>
+    <item>
+        <title>Quickly start an Windows Reset from CMD/PowerShell</title>
+        <link>https://niklasrast.io/blog/post-0023</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0023</guid>
+    </item>
+    <item>
+        <title>How to manage Windows 365 Cloud PCs from Microsoft Graph?</title>
+        <link>https://niklasrast.io/blog/post-0024</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0024</guid>
+    </item>
+    <item>
+        <title>How to Optimize Bandwidth Usage with Intune Delivery Optimization?</title>
+        <link>https://niklasrast.io/blog/post-0025</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0025</guid>
+    </item>
+    <item>
+        <title>A Comprehensive Guide to Setting Up Microsoft Defender for macOS: Strengthening Your System Security</title>
+        <link>https://niklasrast.io/blog/post-0026</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0026</guid>
+    </item>
+    <item>
+        <title>Simplifying Network Drive Mapping with ADMX Templates in Intune for Windows Devices in a Hybrid Environment</title>
+        <link>https://niklasrast.io/blog/post-0027</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0027</guid>
+    </item>
+    <item>
+        <title>Automating a Windows Autopilot profile deployment using a Dynamic Device Membership group from Azure AD</title>
+        <link>https://niklasrast.io/blog/post-0028</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0028</guid>
+    </item>
+    <item>
+        <title>A Guide to Setting Up Windows Autopilot with Microsoft Intune for a Zero-Touch Experience</title>
+        <link>https://niklasrast.io/blog/post-0029</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0029</guid>
+    </item>
+    <item>
+        <title>How to Deploy SharePoint Library Sync through Microsoft Intune Configuration Profile for Windows Devices</title>
+        <link>https://niklasrast.io/blog/post-0030</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0030</guid>
+    </item>
+    <item>
+        <title>Enhancing Security with Windows Hello for Business Cloud Trust in Hybrid Environments</title>
+        <link>https://niklasrast.io/blog/post-0031</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0031</guid>
+    </item>
+    <item>
+        <title>Optimize Troubleshooting in Intune by Saving Logs in the Intune Logs Folder</title>
+        <link>https://niklasrast.io/blog/post-0032</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0032</guid>
+    </item>
+    <item>
+        <title>Exploring Enterprise State Roaming</title>
+        <link>https://niklasrast.io/blog/post-0033</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0033</guid>
+    </item>
+    <item>
+        <title>Empowering Users with Self-Service Local Admin Rights via Entra ID Access Packages</title>
+        <link>https://niklasrast.io/blog/post-0034</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0034</guid>
+    </item>
+    <item>
+        <title>Power up your software packaging with PSAppDeployToolkit</title>
+        <link>https://niklasrast.io/blog/post-0035</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0035</guid>
+    </item>
+    <item>
+        <title>How to restrict User access to the Windows Registry?</title>
+        <link>https://niklasrast.io/blog/post-0036</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0036</guid>
+    </item>
+    <item>
+        <title>Implement Evergreen using Winget-AutoUpdate-aaS for Intune managed Windows 11 Endpoints</title>
+        <link>https://niklasrast.io/blog/post-0037</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0037</guid>
+    </item>
+    <item>
+        <title>A Guide to Intune Settings Catalog and why you should use it</title>
+        <link>https://niklasrast.io/blog/post-0038</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0038</guid>
+    </item>
+    <item>
+        <title>Using Intune to create logon banners on managed Endpoints</title>
+        <link>https://niklasrast.io/blog/post-0039</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0039</guid>
+    </item>
+    <item>
+        <title>Exploring the LocalMDM PowerShell Module: A Tool for Testing OMA-URI Commands</title>
+        <link>https://niklasrast.io/blog/post-0040</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0040</guid>
+    </item>
+        <item>
+        <title>Recommended settings for Windows Update for Business</title>
+        <link>https://niklasrast.io/blog/post-0041</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0041</guid>
+    </item>
+    <item>
+        <title>Preventing Microsoft Store usage</title>
+        <link>https://niklasrast.io/blog/post-0042</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0042</guid>
+    </item>
+    <item>
+        <title>Restricting local logon access on Windows devices</title>
+        <link>https://niklasrast.io/blog/post-0043</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0043</guid>
+    </item>
+    <item>
+        <title>Testing Microsoft Intune software packages in the Windows System context</title>
+        <link>https://niklasrast.io/blog/post-0044</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0044</guid>
+    </item>
+    <item>
+        <title>How to manually trigger Intune remediations on Windows devices?</title>
+        <link>https://niklasrast.io/blog/post-0045</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0045</guid>
+    </item>
+    <item>
+        <title>Contributing your Scripts or Modules to the PowerShell Gallery</title>
+        <link>https://niklasrast.io/blog/post-0046</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0046</guid>
+    </item>
+    <item>
+        <title>Disabling First Logon Animation and User Assignments</title>
+        <link>https://niklasrast.io/blog/post-0047</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0047</guid>
+    </item>
+    <item>
+        <title>Enabling the Administrator Account in Windows with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0048</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0048</guid>
+    </item>
+    <item>
+        <title>Securing your corporate environment by blocking personal Microsoft accounts on managed Windows devices</title>
+        <link>https://niklasrast.io/blog/post-0049</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0049</guid>
+    </item>
+    <item>
+        <title>Configuring Windows Firewall Profile to Domain when connected to corporate SSID on an Entra ID joined and Intune managed device.</title>
+        <link>https://niklasrast.io/blog/post-0050</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0050</guid>
+    </item>
+    <item>
+        <title>Export and import Intune Settings catalog profiles</title>
+        <link>https://niklasrast.io/blog/post-0051</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0051</guid>
+    </item>
+    <item>
+        <title>Troubleshooting Defender for Endpoint connectivity issues</title>
+        <link>https://niklasrast.io/blog/post-0052</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0052</guid>
+    </item>
+    <item>
+        <title>Mastering app Installation visibility with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0053</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0053</guid>
+    </item>
+    <item>
+        <title>Mastering Windows 11 start menu. Custom layouts with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0054</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0054</guid>
+    </item>
+    <item>
+        <title>Dive into Microsoft Defender for Endpoint Web Content Filter Feature</title>
+        <link>https://niklasrast.io/blog/post-0055</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0055</guid>
+    </item>
+    <item>
+        <title>Request and Deploy SCEP Certificates with the Intune NDES Connector</title>
+        <link>https://niklasrast.io/blog/post-0056</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0056</guid>
+    </item>
+    <item>
+        <title>Setup Azure AD Cloud Sync to sync your OnPrem Active Directory identities to Azure</title>
+        <link>https://niklasrast.io/blog/post-0057</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0057</guid>
+    </item>
+    <item>
+        <title>Upgrade from Windows 10 to Windows 11 with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0058</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0058</guid>
+    </item>
+    <item>
+        <title>Inform users of newly enrolled devices with Enrollment notifications from Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0059</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0059</guid>
+    </item>
+    <item>
+        <title>Change the primary user of a Microsoft Intune managed Windows device</title>
+        <link>https://niklasrast.io/blog/post-0060</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0060</guid>
+    </item>
+    <item>
+        <title>Securely Publish internal Applications over Microsoft Azure AD Application Proxy</title>
+        <link>https://niklasrast.io/blog/post-0061</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0061</guid>
+    </item>
+    <item>
+        <title>Microsoft Intune and Apple Business Manager for iOS management</title>
+        <link>https://niklasrast.io/blog/post-0062</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0062</guid>
+    </item>
+    <item>
+        <title>Why Use Apple Business Manager for iOS MDM?</title>
+        <link>https://niklasrast.io/blog/post-0063</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0063</guid>
+    </item>
+    <item>
+        <title>Tip on Microsoft licensing</title>
+        <link>https://niklasrast.io/blog/post-0064</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0064</guid>
+    </item>
+    <item>
+        <title>Attack Surface Reduction with Defender for Endpoint</title>
+        <link>https://niklasrast.io/blog/post-0065</link>
+        <description></description>
+        <pubDate>Sun, 31 Dec 2023 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0065</guid>
+    </item>
+    <item>
+        <title>Configuring a Single-App Kiosk for Windows 11 devices using Assigned Access within Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0066</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0066</guid>
+    </item>
+    <item>
+        <title>Defining a Multi-App Kiosk for Windows 11 devices using Assigned Access within Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0067</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0067</guid>
+    </item>
+    <item>
+        <title>How to create a Web-App Kiosk for Windows 11 devices using Assigned Access within Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0068</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0068</guid>
+    </item>
+    <item>
+        <title>A guide on how to create a Single-App kiosk for Apple iOS devices using Apple Business Manager in combination with Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0069</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0069</guid>
+    </item>
+    <item>
+        <title>How to configure a Multi-App kiosk for Apple iOS devices?</title>
+        <link>https://niklasrast.io/blog/post-0070</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0070</guid>
+    </item>
+    <item>
+        <title>What is Shared-iPad mode and how to enable it through Microsoft Intune?</title>
+        <link>https://niklasrast.io/blog/post-0071</link>
+        <description></description>
+        <pubDate>Fri, 06 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0071</guid>
+    </item>
+    <item>
+        <title>Configuring Platform SSO in Microsoft Intune for macOS devices to enable Windows-like SSO features on macOS</title>
+        <link>https://niklasrast.io/blog/post-0072</link>
+        <description></description>
+        <pubDate>Mon, 23 Dec 2024 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0072</guid>
+    </item>
+    <item>
+        <title>Automatically configuring a time zone based on the device location on Intune managed Windows endpoints</title>
+        <link>https://niklasrast.io/blog/post-0073</link>
+        <description></description>
+        <pubDate>Thu, 02 Jan 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0073</guid>
+    </item>
+    <item>
+        <title>Configuring Bitlocker for Windows devices using a Settings catalog profile in Intune</title>
+        <link>https://niklasrast.io/blog/post-0074</link>
+        <description></description>
+        <pubDate>Mon, 06 Jan 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0074</guid>
+    </item>
+    <item>
+        <title>Control Windows Copilot on Intune managed endpoints</title>
+        <link>https://niklasrast.io/blog/post-0075</link>
+        <description></description>
+        <pubDate>Thu, 09 Jan 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0075</guid>
+    </item>
+    <item>
+        <title>Enable Windows Hello for Business using a Settings catalog profile in Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0076</link>
+        <description></description>
+        <pubDate>Mon, 13 Jan 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0076</guid>
+    </item>
+    <item>
+        <title>Configuring Winget Client through Microsoft Intune settings catalog</title>
+        <link>https://niklasrast.io/blog/post-0077</link>
+        <description></description>
+        <pubDate>Thu, 16 Jan 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0077</guid>
+    </item>
+    <item>
+        <title>Injecting custom oem drivers to Windows installation media</title>
+        <link>https://niklasrast.io/blog/post-0078</link>
+        <description></description>
+        <pubDate>Mon, 03 Feb 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0078</guid>
+    </item>
+    <item>
+        <title>Managing local Admin Groups on Windows trough Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0079</link>
+        <description></description>
+        <pubDate>Thu, 06 Feb 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0079</guid>
+    </item>
+    <item>
+        <title>Configuring Windows LAPS</title>
+        <link>https://niklasrast.io/blog/post-0080</link>
+        <description></description>
+        <pubDate>Thu, 13 Feb 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0080</guid>
+    </item>
+    <item>
+        <title>Special requirements for apps deployed trough Microsoft Intune</title>
+        <link>https://niklasrast.io/blog/post-0081</link>
+        <description></description>
+        <pubDate>Tue, 18 Feb 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0081</guid>
+    </item>
+    <item>
+        <title>Using Intune device query</title>
+        <link>https://niklasrast.io/blog/post-0082</link>
+        <description></description>
+        <pubDate>Thu, 27 Feb 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0082</guid>
+    </item>
+    <item>
+        <title>Windows Sudo</title>
+        <link>https://niklasrast.io/blog/post-0083</link>
+        <description></description>
+        <pubDate>Tue, 04 Mar 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0083</guid>
+    </item>
+    <item>
+        <title>Windows Autopilot device registration</title>
+        <link>https://niklasrast.io/blog/post-0084</link>
+        <description></description>
+        <pubDate>Wed, 12 Mar 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0084</guid>
+    </item>
+    <item>
+        <title>Remote Help on Windows clients</title>
+        <link>https://niklasrast.io/blog/post-0085</link>
+        <description></description>
+        <pubDate>Wed, 26 Mar 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0085</guid>
+    </item>
+    <item>
+        <title>How to create Intune Cloud PKI Instances?</title>
+        <link>https://niklasrast.io/blog/post-0086</link>
+        <description></description>
+        <pubDate>Thu, 03 Apr 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0086</guid>
+    </item>
+    <item>
+        <title>A guide on Intune Software package deplyoments on Windows</title>
+        <link>https://niklasrast.io/blog/post-0087</link>
+        <description></description>
+        <pubDate>Thu, 03 Apr 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0087</guid>
+    </item>
+    <item>
+        <title>Media Creation Tool CLI</title>
+        <link>https://niklasrast.io/blog/post-0088</link>
+        <description></description>
+        <pubDate>Mon, 02 Jun 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0088</guid>
+    </item>
+    <item>
+        <title>Adding custom links to the myapps portal</title>
+        <link>https://niklasrast.io/blog/post-0089</link>
+        <description></description>
+        <pubDate>Wed, 23 Jul 2025 10:00:00 +0000</pubDate>
+        <guid>https://niklasrast.io/blog/post-0089</guid>
+    </item>
+</rss>
