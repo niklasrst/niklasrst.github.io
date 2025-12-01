@@ -12,6 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
+    - title: 'RSS Feed'
+      url: '/feed.xml'
     #- title: 'Projects'
     #  url: '/projects/'
     - title: 'About'
