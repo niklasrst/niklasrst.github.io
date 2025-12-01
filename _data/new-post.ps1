@@ -19,3 +19,4 @@ New-Item -Path "..\images\" -Name $postId -ItemType Directory
 New-Item -Path "..\_posts\$newFileName" -ItemType File
 Set-Content -Path "..\_posts\$newFileName" -Value $content
 code "..\_posts\$newFileName"
+code "..\feed.xml"
